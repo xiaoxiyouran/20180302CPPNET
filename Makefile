@@ -1,3 +1,5 @@
+connect:
+	git remote add origin git@github.com:xiaoxiyouran/20180302CPPNET.git
 
 init:
 	echo "# 20180302CPPNET" >> README.md
